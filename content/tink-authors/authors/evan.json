@@ -1,0 +1,11 @@
+{
+  "id": "evan",
+  "name": "Evan",
+  "image": "https://api.adorable.io/avatars/150/test.png",
+  "url": "http://t-ink.org",
+  "location": "Minnesota, USA",
+  "bio": "T-INK Creator",
+  "socialUrls": [
+    "http://t-ink.org"
+  ]
+}
