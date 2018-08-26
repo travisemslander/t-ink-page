@@ -1,20 +1,24 @@
 {
   "assetsByChunkName": {
+    "path---categories-website": [
+      "path---categories-website-eff594803db70365a3fa.js",
+      "path---categories-website-eff594803db70365a3fa.js.map"
+    ],
     "path---minecraft-intro": [
-      "path---minecraft-intro-574cadb2fca91a97ee5c.js",
-      "path---minecraft-intro-574cadb2fca91a97ee5c.js.map"
+      "path---minecraft-intro-155c72d3f0a19bfd247f.js",
+      "path---minecraft-intro-155c72d3f0a19bfd247f.js.map"
     ],
     "path---categories-gaming": [
-      "path---categories-gaming-e04bb27e49e069534601.js",
-      "path---categories-gaming-e04bb27e49e069534601.js.map"
+      "path---categories-gaming-cf88fa8a7030867bba8a.js",
+      "path---categories-gaming-cf88fa8a7030867bba8a.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-f1ed35d05a0aab17619e.js",
-      "component---src-layouts-index-jsx-f1ed35d05a0aab17619e.js.map"
+      "component---src-layouts-index-jsx-5bde0d5e156b0e18db4e.js",
+      "component---src-layouts-index-jsx-5bde0d5e156b0e18db4e.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -25,25 +29,33 @@
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---index": [
-      "path---index-4290ec85cce9deaa33bf.js",
-      "path---index-4290ec85cce9deaa33bf.js.map"
+      "path---index-e899cf3c21a7ceb9bb9e.js",
+      "path---index-e899cf3c21a7ceb9bb9e.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
     ],
+    "path---latest-minecraft-news": [
+      "path---latest-minecraft-news-d9473b31c1cbcf7dfd0f.js",
+      "path---latest-minecraft-news-d9473b31c1cbcf7dfd0f.js.map"
+    ],
+    "path---tags-website": [
+      "path---tags-website-476dd110f7432bcef4be.js",
+      "path---tags-website-476dd110f7432bcef4be.js.map"
+    ],
     "path---author-evan": [
-      "path---author-evan-5d2798669964e95a95d7.js",
-      "path---author-evan-5d2798669964e95a95d7.js.map"
+      "path---author-evan-476677bd28a645f48a57.js",
+      "path---author-evan-476677bd28a645f48a57.js.map"
     ],
     "component---src-templates-author-jsx": [
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js",
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js.map"
     ],
     "commons": [
-      "commons-1154fef8ef46a9192ee2.js",
+      "commons-369dd9fe612c7eb914d6.js",
       "build-js-styles.css",
-      "commons-1154fef8ef46a9192ee2.js.map",
+      "commons-369dd9fe612c7eb914d6.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
@@ -63,18 +75,26 @@
       "component---src-templates-post-jsx-b12f4e533f80565aa0a2.js.map"
     ],
     "app": [
-      "app-613f803c95441fcd608c.js",
+      "app-b07892b238e994a5192b.js",
       "build-js-styles.css",
-      "app-613f803c95441fcd608c.js.map",
+      "app-b07892b238e994a5192b.js.map",
       "build-js-styles.css.map"
     ],
+    "path---new-website": [
+      "path---new-website-90603cb38a1a1fa4b5fe.js",
+      "path---new-website-90603cb38a1a1fa4b5fe.js.map"
+    ],
     "path---tags-minecraft": [
-      "path---tags-minecraft-7c42568d15278fd6f326.js",
-      "path---tags-minecraft-7c42568d15278fd6f326.js.map"
+      "path---tags-minecraft-8283fd9f7361c200c4b7.js",
+      "path---tags-minecraft-8283fd9f7361c200c4b7.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-t-ink": [
+      "path---tags-t-ink-8fe4da3efdfd344765e5.js",
+      "path---tags-t-ink-8fe4da3efdfd344765e5.js.map"
     ]
   }
 }
