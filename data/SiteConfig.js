@@ -22,7 +22,12 @@ module.exports = {
   siteSocialUrls: [],
   postDefaultCategoryID: "Tech", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
-  userLinks: [],
+  userLinks: [
+    {
+      label: "Android App",
+      url: "https://play.google.com/store/apps/details?id=com.tink.app"
+    }
+  ],
   // Copyright string for the footer of the website and RSS feed.
   copyright: {
     label: "T-INK" // Label used before the year

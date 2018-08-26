@@ -2,10 +2,10 @@
 title: "Minecraft Intro"
 cover: "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/u/n/t/untitled-a5150.jpg"
 author: "evan"
-date: "2018-08-25"
+date: "2018-08-25 12:00"
 category: "gaming"
 tags:
-    - minecraft
+    - "minecraft"
 ---
 
 This is the jail. It's one of the smallest things in my village. My village is called FunIllage. ![jail]
