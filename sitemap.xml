@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>http://t-ink.org/t-ink-page/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/nature-walk</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/latest-minecraft-news</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/minecraft-intro</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/new-website</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/tags/nature/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/tags/minecraft/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/tags/t-ink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/tags/website/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/categories/nature/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/categories/gaming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/categories/website/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/author/evan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://t-ink.org/t-ink-page/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/nature-walk</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/latest-minecraft-news</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/minecraft-intro</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/new-website</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/tags/nature/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/tags/minecraft/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/tags/t-ink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/tags/website/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/categories/nature/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/categories/gaming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/categories/website/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/author/evan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://t-ink.org/t-ink-page/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
