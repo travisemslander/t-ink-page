@@ -6,7 +6,7 @@ module.exports = {
   siteTitleAlt: "T-INK", // Alternative site title for SEO.
   siteLogo:
     "/logos/tink-circle-512.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "http://t-ink.org", // Domain of your website without pathPrefix.
+  siteUrl: "https://t-ink.org", // Domain of your website without pathPrefix.
   pathPrefix: "/t-ink-page", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "T-INK Website.", // Website description used for RSS feeds/meta description tag.
@@ -18,7 +18,7 @@ module.exports = {
   // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
   sitePaginationLimit: 10, // The max number of posts per page.
   googleAnalyticsID: "", // GA tracking ID.
-  // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
+  disqusShortname: "t-ink", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [],
   postDefaultCategoryID: "Tech", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
