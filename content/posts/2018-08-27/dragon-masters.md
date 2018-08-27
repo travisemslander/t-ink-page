@@ -19,4 +19,4 @@ There’s twelve books. Here are six:
 
 
 
-[dragon-masters]: images/dragon-masters.jpg "Dragon Masters Series"
+[dragon-masters]: /images/dragon-masters.jpg "Dragon Masters Series"

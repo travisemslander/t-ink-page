@@ -15,5 +15,5 @@ This is the grand house, made all out of planks, nothing else. Inside it is a bu
 
 
 
-[grand-house]: images/minecraft/grand-house.jpg "The Grand House"
-[us]: images/minecraft/us.jpg "Us"
+[grand-house]: /images/minecraft/grand-house.jpg "The Grand House"
+[us]: /images/minecraft/us.jpg "Us"

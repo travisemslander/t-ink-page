@@ -20,10 +20,10 @@ This is my pet Meowy. ![pet-mowie]
 
 This is my pet Ruff. ![pet-ruff]
 
-[jail]: images/minecraft/jail.jpg "Minecraft Jail"
-[enchantment]: images/minecraft/enchantment.jpg "Enchantment Room"
-[firehouse-front]: images/minecraft/firehouse-front.jpg "Font of my Fire House"
-[firehouse-top]: images/minecraft/firehouse-top.jpg "Top of my Fire House"
-[pet-mowie]: images/minecraft/pet-mowie.jpg "My Pet Mowie"
-[pet-ruff]: images/minecraft/pet-ruff.jpg "My Pet Ruff"
-[waterslide]: images/minecraft/waterslide.jpg "Waterslide"
+[jail]: /images/minecraft/jail.jpg "Minecraft Jail"
+[enchantment]: /images/minecraft/enchantment.jpg "Enchantment Room"
+[firehouse-front]: /images/minecraft/firehouse-front.jpg "Font of my Fire House"
+[firehouse-top]: /images/minecraft/firehouse-top.jpg "Top of my Fire House"
+[pet-mowie]: /images/minecraft/pet-mowie.jpg "My Pet Mowie"
+[pet-ruff]: /images/minecraft/pet-ruff.jpg "My Pet Ruff"
+[waterslide]: /images/minecraft/waterslide.jpg "Waterslide"
