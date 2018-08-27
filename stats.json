@@ -1,16 +1,24 @@
 {
   "assetsByChunkName": {
     "path---categories-website": [
-      "path---categories-website-043569e8824ec95e3ca6.js",
-      "path---categories-website-043569e8824ec95e3ca6.js.map"
+      "path---categories-website-eff594803db70365a3fa.js",
+      "path---categories-website-eff594803db70365a3fa.js.map"
+    ],
+    "path---categories-nature": [
+      "path---categories-nature-fefd09b467ec7482f8c9.js",
+      "path---categories-nature-fefd09b467ec7482f8c9.js.map"
     ],
     "path---minecraft-intro": [
-      "path---minecraft-intro-4c3ae3fce51238e2a8f5.js",
-      "path---minecraft-intro-4c3ae3fce51238e2a8f5.js.map"
+      "path---minecraft-intro-7b8b4017f40e4e526cac.js",
+      "path---minecraft-intro-7b8b4017f40e4e526cac.js.map"
+    ],
+    "path---tags-nature": [
+      "path---tags-nature-60f60cd327ec1c1b1136.js",
+      "path---tags-nature-60f60cd327ec1c1b1136.js.map"
     ],
     "path---categories-gaming": [
-      "path---categories-gaming-118a9077f5ac104f409b.js",
-      "path---categories-gaming-118a9077f5ac104f409b.js.map"
+      "path---categories-gaming-cf88fa8a7030867bba8a.js",
+      "path---categories-gaming-cf88fa8a7030867bba8a.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -19,6 +27,10 @@
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-5bde0d5e156b0e18db4e.js",
       "component---src-layouts-index-jsx-5bde0d5e156b0e18db4e.js.map"
+    ],
+    "path---nature-walk": [
+      "path---nature-walk-7414a9c1405aa9c706c2.js",
+      "path---nature-walk-7414a9c1405aa9c706c2.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -29,24 +41,24 @@
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---index": [
-      "path---index-bf81514025a695a9a0ca.js",
-      "path---index-bf81514025a695a9a0ca.js.map"
+      "path---index-f13fbf406b6903cb7922.js",
+      "path---index-f13fbf406b6903cb7922.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
     ],
     "path---latest-minecraft-news": [
-      "path---latest-minecraft-news-5133f9894da4a1c8f84e.js",
-      "path---latest-minecraft-news-5133f9894da4a1c8f84e.js.map"
+      "path---latest-minecraft-news-20fababf78d9072b22d5.js",
+      "path---latest-minecraft-news-20fababf78d9072b22d5.js.map"
     ],
     "path---tags-website": [
-      "path---tags-website-dbdfc8286a1b8644d44d.js",
-      "path---tags-website-dbdfc8286a1b8644d44d.js.map"
+      "path---tags-website-476dd110f7432bcef4be.js",
+      "path---tags-website-476dd110f7432bcef4be.js.map"
     ],
     "path---author-evan": [
-      "path---author-evan-476677bd28a645f48a57.js",
-      "path---author-evan-476677bd28a645f48a57.js.map"
+      "path---author-evan-5632d62748dd681e54c0.js",
+      "path---author-evan-5632d62748dd681e54c0.js.map"
     ],
     "component---src-templates-author-jsx": [
       "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js",
@@ -75,26 +87,26 @@
       "component---src-templates-post-jsx-b12f4e533f80565aa0a2.js.map"
     ],
     "app": [
-      "app-b07892b238e994a5192b.js",
+      "app-3a2286223ffab844f14d.js",
       "build-js-styles.css",
-      "app-b07892b238e994a5192b.js.map",
+      "app-3a2286223ffab844f14d.js.map",
       "build-js-styles.css.map"
     ],
     "path---new-website": [
-      "path---new-website-c1d64717e0f71e9c51c2.js",
-      "path---new-website-c1d64717e0f71e9c51c2.js.map"
+      "path---new-website-2202fb249de654fd0e39.js",
+      "path---new-website-2202fb249de654fd0e39.js.map"
     ],
     "path---tags-minecraft": [
-      "path---tags-minecraft-02e80c09cfabf3583aeb.js",
-      "path---tags-minecraft-02e80c09cfabf3583aeb.js.map"
+      "path---tags-minecraft-8283fd9f7361c200c4b7.js",
+      "path---tags-minecraft-8283fd9f7361c200c4b7.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-t-ink": [
-      "path---tags-t-ink-74b6a47f4edb1557ae71.js",
-      "path---tags-t-ink-74b6a47f4edb1557ae71.js.map"
+      "path---tags-t-ink-8fe4da3efdfd344765e5.js",
+      "path---tags-t-ink-8fe4da3efdfd344765e5.js.map"
     ]
   }
 }
