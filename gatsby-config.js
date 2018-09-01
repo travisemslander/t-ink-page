@@ -78,7 +78,7 @@ module.exports = {
         start_url: config.pathPrefix,
         background_color: config.backgroundColor,
         theme_color: config.themeColor,
-        display: "minimal-ui",
+        display: "standalone",
         icons: [
           {
             src: "/logos/tink-circle-48.png",
