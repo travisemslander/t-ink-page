@@ -7,7 +7,7 @@ module.exports = {
   siteLogo:
     "/logos/tink-circle-512.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://t-ink.org", // Domain of your website without pathPrefix.
-  pathPrefix: "/t-ink-page", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "T-INK Website.", // Website description used for RSS feeds/meta description tag.
   siteCover:
